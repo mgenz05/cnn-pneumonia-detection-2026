@@ -25,9 +25,9 @@ BASE_DIR = "archive/chest_xray/chest_xray"
 3. The model will load and preprocess data, train the CNN, and evaluate performance on the test set
 
 ## Results
-The model achieved
-Accuracy: 81.57%
-Precision: 77.78%
-Recall: 98.72 %
+The model achieved\
+Accuracy: 81.57%\
+Precision: 77.78%\
+Recall: 98.72 %\
 This indicates the model is highly effective at detecting pneumonia cases (high recall), which is especially important in a medical setting. 
 
