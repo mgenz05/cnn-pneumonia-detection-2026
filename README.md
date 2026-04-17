@@ -5,7 +5,7 @@ This project applies convolutional neural networks (CNN) to classify chest X-ray
 This project was completed for MAD2502 and focuses on predictive modeling, classification, and image-based deep learning.
 
 ## Authors
-Michael Genzone
+Michael Genzone, 
 Abigail Laber
 
 ## Dataset
