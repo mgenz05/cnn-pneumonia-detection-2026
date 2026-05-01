@@ -1,4 +1,4 @@
-# Pneumonia Detection using CNN: mad2502-project
+# Pneumonia Detection using CNN:
 
 ## Overview
 This project applies convolutional neural networks (CNN) to classify chest X-rays as either Normal or Pneumonia. The goal is to evaluate how effective machine learning can be in assisting medical diagnosis. 
